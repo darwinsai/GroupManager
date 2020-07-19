@@ -31,7 +31,7 @@ My owner is [JOEY J©ᵀᴹ 🔹](t.me/joey_dsvs12)
 
 Special thanks to [Aditya](https://t.me/xditya) for helping me.
 
- Add me to a group by clicking [here](http://t.me/JOEYSDSVS_BOT?startgroup=true).
+
 """
 
 
