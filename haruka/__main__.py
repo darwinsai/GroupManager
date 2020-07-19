@@ -22,16 +22,14 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-You know how hard it is sometimes to manage group so here is the solution for you
-
-I'm group manager bot and Anti-spam for WOLVERINE AND TEAM🃏
+HEY BUDDY ITS ME JOEY IM HERE TO MANAGE 
 
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
 My owner is [JOEY J©ᵀᴹ 🔹](t.me/joey_dsvs12)
 
-Special thanks to [WOLVERINE LOGAN](t.me/wolverine1510) for helping me.
+Special thanks to [Aditya](https://t.me/xditya) for helping me.
 
  Add me to a group by clicking [here](http://t.me/JOEYSDSVS_BOT?startgroup=true).
 """
